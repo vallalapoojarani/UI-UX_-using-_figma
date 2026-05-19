@@ -128,5 +128,8 @@ Your Name
 ## 📄 License
 
 This project is for educational and portfolio purposes.
-<img width="1152" height="1536" alt="WhatsApp Image 2026-05-19 at 12 55 47 PM" src="https://github.com/user-attachments/assets/0d0d12c2-0b23-4489-a411-a91639d1085f" />
+
 <img width="1152" height="1536" alt="WhatsApp Image 2026-05-19 at 12 55 08 PM" src="https://github.com/user-attachments/assets/6778fb34-cd79-4a81-8fc3-866fc2d73555" />
+
+<img width="1152" height="1536" alt="WhatsApp Image 2026-05-19 at 12 55 47 PM" src="https://github.com/user-attachments/assets/0d0d12c2-0b23-4489-a411-a91639d1085f" />
+\
